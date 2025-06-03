@@ -1,0 +1,6 @@
+{
+    "servername" : "mysql.selfmade.ninja:3306",
+    "susername" : "db_photogram",
+    "password" : "password",
+    "dbname" : "db_photogram_photogram"
+}
